@@ -8,11 +8,19 @@ Cela dit, tout le code C++ est visible dans le dossier Release_app.
 L'ordre des fichiers pour la lecture est :
 
 -Main.h/Main.cpp
+
 -Mainwindow.h/Mainwindow.cpp
+
 -Zeroconf.h/Zeroconf.cpp
+
 -Status.h/Status.cpp
+
 -Jsonreader.h/Jsonreader.cpp
+
 -Jsonhandler.h/Jsonhandler.cpp
+
 -Preimagewindow.h/Preimagewindow.cpp
+
 -Server.h/Server.cpp
+
 -Imagewindow.h/Imagewindow.cpp
