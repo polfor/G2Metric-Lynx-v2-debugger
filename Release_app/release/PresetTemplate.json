@@ -1,0 +1,17 @@
+{	
+	"zoom" : CURRENT_ZOOM,
+	"focus_mode" : FOCUS_MODE,
+	"focus" : CURRENT_FOCUS,
+	"shutter" : CURRENT_SHUTTER,
+	"iris" : CURRENT_IRIS,
+	"gain" : CURRENT_GAIN,
+	"wb_mode" : WB_MODE,
+	"ae_mode" : AE_MODE,
+	"contrast" : CONTRAST_LEVEL,
+	"spot_ae" : SPOT_AE_ENABLED,
+	"spot_ae_x" : SPOT_AE_X,
+	"spot_ae_y" : SPOT_AE_Y,
+	"lr_reverse" : LR_REVERSE,
+	"picture_flip" : PICTURE_FLIP,
+	"flicker_reduction" : FLICKER_REDUCTION,
+}
